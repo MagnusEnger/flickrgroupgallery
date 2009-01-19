@@ -1,0 +1,23 @@
+html {
+  font-family: sans-serif;
+}
+#main {
+  text-align: center;
+}
+h1, .menu, .menu a {
+  background-color: #4D9706;
+	color: white; 
+}
+h1 {
+  margin-bottom: 0px;
+}
+.menu {
+  margin-top: 0px;
+	padding-bottom: 5px;
+}
+h3 {
+  text-align: left;
+}
+img {
+  border: 0px solid black;
+}

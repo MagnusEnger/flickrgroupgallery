@@ -1,0 +1,11 @@
+FlickrGroupGallery TODO
+
+SHORT TERM
+
+- Move plain text strings into some kind of config for easy translation
+- Display sets as individual contributors
+- Display comments 
+
+LONG TERM
+
+- Turn into a plugin for Joomla, WordPress et al
