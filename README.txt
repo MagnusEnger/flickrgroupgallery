@@ -4,7 +4,11 @@ A simple gallery based on a Flickr group where images are posted by individual c
 
 GET IT
 
+From GitHub: 
 http://github.com/MagnusEnger/flickrgroupgallery/tree/master
+
+Or, using git:
+git clone git://github.com/MagnusEnger/flickrgroupgallery.git
 
 INSTALLATION
 
